@@ -1,2 +1,1 @@
-# eggehad-ionic4-css
-Source Code for eggehead.io course
+# Course Files for Style and Theme Ionic Applications
